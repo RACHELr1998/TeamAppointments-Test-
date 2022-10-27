@@ -1,0 +1,19 @@
+.AddAppointment > form{
+	width: 250px;
+    margin: 40px auto;
+    text-align: left;
+    border:red 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+    color: brown;
+}
+
+.AddAppointment select, .AddAppointment input, .AddAppointment button {
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    color: brown;
+    border: palevioletred 1px solid;
+    border-radius: 5px;
+}
